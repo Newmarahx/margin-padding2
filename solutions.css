@@ -15,9 +15,12 @@ body{
 .para2{
 background-color: lightblue;
 margin-top:auto;
+text-align:center;
+margin-bottom:50px;
 }
 
-#button{
+button{
 background-color:white;
-
+border:1px solid white;
+margin:32px;
 }
