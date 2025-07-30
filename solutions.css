@@ -1,26 +1,40 @@
 body{
-    width:50%;
+  background: #eee;
+    font-family: sans-serif;
 }
 
 .text1{
-    background-color:lightblue;
-    margin-top:auto;
+ width: 400px;
+ background: #fff;
+ margin: 16px auto;
+ padding: 8px;
 }
 
 .para{
-    background-color: lightblue;
-    margin-top:auto;
+    background: #e3f4ff;
+    margin-bottom: 8px;
+  font-size: 16px;
+  padding: 8px;
 }
 
 .para2{
-background-color: lightblue;
-margin-top:auto;
-text-align:center;
-margin-bottom:50px;
+background: #e3f4ff;
+margin-bottom: 8px;
+  padding: 16px 8px;
+
+}
+
+.button-container {
+  background: #e3f4ff;
+  text-align: center;
+  padding: 8px;
+
 }
 
 button{
-background-color:white;
-border:1px solid white;
-margin:32px;
+background: white;
+  border: 1px solid #eee;
+    display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
